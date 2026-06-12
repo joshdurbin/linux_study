@@ -1,0 +1,19 @@
+# Built binary
+/linux_study
+
+# SQLite database files
+/linux_study.db
+/linux_study.db-wal
+/linux_study.db-shm
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Test artifacts
+*.test
+*.out
+coverage.txt
